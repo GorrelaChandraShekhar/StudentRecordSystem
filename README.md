@@ -83,4 +83,16 @@ Deleting a student
 4. Delete Student
 5. Exit
 Enter choice:
+---
+## 🙋‍♂️ Author
+Chandhu Java Developer Intern – August 2025
 
+---
+## 🔗 GitHub Repository
+https://github.com/GorrelaChandraShekhar/StudentRecordSystem.git
+
+✅ Now copy this into your README.md file and commit + push again:
+
+git add README.md
+git commit -m "Updated README formatting"
+git push
