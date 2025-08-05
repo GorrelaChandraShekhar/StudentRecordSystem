@@ -93,6 +93,6 @@ https://github.com/GorrelaChandraShekhar/StudentRecordSystem.git
 
 ✅ Now copy this into your README.md file and commit + push again:
 
-git add README.md
-git commit -m "Updated README formatting"
+git add README.md   
+git commit -m "Updated README formatting"   
 git push
